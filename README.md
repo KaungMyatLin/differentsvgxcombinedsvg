@@ -1,1 +1,2 @@
 ##  tried to dl 3 svgs from icons8.com and merged into1 on products.aspose.app/words/merger/svg, but none of them has path el instead of image el inside svg and not group <g> of three svgs.
+##  https://www.youtube.com/watch?v=nW73zZ_pbH8
